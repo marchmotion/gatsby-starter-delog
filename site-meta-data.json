@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "MARCHMOTION",
+  "siteUrl": "https://friendly-franklin-1abf4f.netlify.app/",
+  "description": "บล็อกที่จดบันทึกการศึกษาและเรียนรู้การพัฒนาเว็บไซต์และเกม",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "MARCHMOTION",
+    "description": "MARCHMOTION เป็นบล็อกที่สร้างขึ้นเพื่อจดบันทึกการเรียนรู้เทคโนโลยีต่างๆ ทั้งด้านการพัฒนาเว็บไซต์ด้วย HTML/CSS, Javascript, Node.js, และ React การพัฒนาเกมด้วย UNITY Engine, Godot Engine, Flash และ PhaserJS และการศึกษาด้านอื่นๆที่ตัวผมเองสนใจ"
   }
 }
